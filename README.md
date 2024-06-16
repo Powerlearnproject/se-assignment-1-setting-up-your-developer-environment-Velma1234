@@ -38,6 +38,21 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
+download the installer
+locate the donloaded file and double click to run it
+Accept the agreement and click "Next".
+Choose the installation location and click "Next".
+Select additional tasks such as creating a desktop icon and adding to PATH, then click "Next".
+Click "Install" to begin the installation.
+Once the installation is complete, click "Finish".
+Launch VS Code:
+Click the Extensions icon in the Activity Bar on the side of the window
+In the Extensions view, type the name of the extension you want to install in the search bar.
+Find the extension you want from the search results and click the Install button.
+Once installed, the Install button will change to Reload if the extension requires a reload to activate. Click Reload if prompted.
+You can see all installed extensions by clicking the "Installed" tab in the Extensions view.
+
+
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
 
@@ -51,4 +66,8 @@ Submit your document and GitHub repository link through the designated platform 
 - Clarity of reflection on challenges and solutions encountered.
 - Adherence to submission guidelines and deadlines.
 
-Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+Note: Feel free to reach out for clarification or assistance with any aspect 
+link for the assignment.https://docs.google.com/document/d/1DsRvftd2lu3rdxfSytFx6cD91JTp3wjr3SFxAiZYy6o/edit?usp=sharing
+
+
+heres the asignment link ()
